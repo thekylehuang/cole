@@ -1,0 +1,33 @@
+meta:
+  name: "Cole"
+  description: "A stationery-inspired theme with vintage earth tones"
+
+background: "#0c0c0c"
+foreground: "#f2e6cf"
+
+cursor:
+  color: "#f2e6cf"
+  text: "#0c0c0c"
+
+selection:
+  background: "#3d3d3d"
+  foreground: "#f2e6cf"
+
+palette:
+  black: "#101010"
+  red: "#cc5d4b"
+  green: "#2e9969"
+  yellow: "#b38d59"
+  blue: "#6179c2"
+  magenta: "#ab78ab"
+  cyan: "#33919c"
+  white: "#a5a5a5"
+
+  brightBlack: "#3d3d3d"
+  brightRed: "#d96857"
+  brightGreen: "#66cc69"
+  brightYellow: "#cc9b52"
+  brightBlue: "#5582c2"
+  brightMagenta: "#bf86bf"
+  brightCyan: "#73bfbf"
+  brightWhite: "#cdcdcd"
