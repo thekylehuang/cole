@@ -1,8 +1,10 @@
-# Cole
+<div align="center">
+  <img height="80" alt="icon" src="https://raw.githubusercontent.com/thekylehuang/cole/main/.github/images/cole-icon.svg" />
+  <h1>cole</h1>
+  <img alt="Preview" src="https://raw.githubusercontent.com/thekylehuang/cole/main/.github/images/cole-rice-screenshot.png" />
+</div>
 
 A stationery-inspired theme with vintage earth tones.
-
-![Screenshot of Neovim with Cole colorscheme](https://raw.githubusercontent.com/thekylehuang/cole/refs/heads/main/.github/assets/social-banner.png)
 
 ## About
 
@@ -20,7 +22,7 @@ Refer to `./terminals/` for the terminal emulator you use. Each folder contains 
 
 ## Palette
 
-![Color palette of the Cole colorscheme](https://raw.githubusercontent.com/thekylehuang/cole/main/.github/assets/palette.png)
+![Color palette of the Cole colorscheme](https://raw.githubusercontent.com/thekylehuang/cole/main/.github/images/palette.png)
 
 ## Contribution
 
@@ -50,7 +52,7 @@ feat(port): add alacritty support
 
 I want Cole to be available everywhere. If you use a platform that's not already supported (or want to improve an existing implementation), PRs are highly encouraged! Refer to the checklist below or open an issue to discuss a new port.
 
-- [ ] Neovim (Lua): On the [cole.nvim](https://github.com/thekylehuang/cole.nvim) repo, add comprehensive support for color highlighting and LSPs
+- [x] Neovim (Lua): On the [cole.nvim](https://github.com/thekylehuang/cole.nvim) repo, add comprehensive support for color highlighting and LSPs
 - [ ] VS Code: Port the colors to JSON and post it on the marketplace
 - [ ] JetBrains: Add support for IntelliJ, PyCharm, and WebStorm
 - [ ] Alacritty: TOML config
@@ -58,6 +60,5 @@ I want Cole to be available everywhere. If you use a platform that's not already
 - [ ] iTerm2: Pull request to [iTerm2 Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
 - [x] Ghostty: Support in Ghostty's theme format 
 - [x] Tmux: On the [cole-tmux](https://github.com/thekylehuang/cole-tmux) repo, add full color support for Cole
-- [ ] Zsh: Syntax highlighting for the command line
 - [ ] Starship: Cole-themed prompt preset
 - [ ] Btop: Custom color file for the system monitor
