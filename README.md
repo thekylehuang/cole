@@ -14,7 +14,7 @@ Designed to be an ergonomic color scheme, Cole has restrained yet contrasted col
 
 ## Installation
 
-The Cole colorscheme is supported on many different tools. There are separate repositories containing Cole for ![Neovim](https://github.com/thekylehuang/cole.nvim) and for ![Tmux](https://github.com/thekylehuang/cole-tmux).
+The Cole colorscheme is supported on many different tools. There are separate repositories containing Cole for [Neovim](https://github.com/thekylehuang/cole.nvim) and for [Tmux](https://github.com/thekylehuang/cole-tmux).
 
 ### Terminals
 
